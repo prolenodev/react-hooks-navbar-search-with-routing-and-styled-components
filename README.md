@@ -1,3 +1,43 @@
+
+# React Hooks Navbar Search with routing
+
+
+
+:raised_hand: Hi, this repository is [ProlenoDev's](https://withkoji.com/@stackingtabs) first React project. :raised_hand:
+
+:information_desk_person:
+
+**The navigation bar contains a search box (re-)written in React Hooks.\
+As the user type search words, filtered results are displayed.**
+
+![Preview](./react-hooks-navbar-search-with-routing-and-styled-components.gif)
+
+This is achieved by:
+- passing props from one page (i.e., Main.js) to another page (i.e., SearchResultsPage.js)
+- using useState and useEffect to store state
+- filtering and rendering an example array in src/API/index.js
+
+:link:
+
+[Codesandbox using styled-components](https://codesandbox.io/s/react-hooks-navbar-search-with-routing-and-styled-components-sklc1)
+
+[Codesandbox using react-bootstrap (the very basic)](https://codesandbox.io/s/react-hooks-navbar-search-with-routing-and-bootstrap-rshz1)
+
+For Navbar Search in class components, see instead, 
+https://github.com/oze4/react-navbar-search-with-routing/
+
+Someone asked a [relevant question](https://stackoverflow.com/questions/57339465/route-to-search-component-from-react-bootstrap-navbar-search) on StackOverflow 2 years ago,
+before Hooks became popular.
+
+:pray:
+
+Please spare me if there's mistake, as this is my first project,\
+and I try to teach myself coding, as I haven't had the money to afford a tutor.
+
+Thank you for dropping by.
+I hope you find this useful.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
