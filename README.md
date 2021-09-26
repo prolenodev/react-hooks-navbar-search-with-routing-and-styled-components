@@ -31,9 +31,6 @@ before Hooks became popular.
 
 :pray:
 
-Please spare me if there's mistake, as this is my first project,\
-and I try to teach myself coding, as I haven't had the money to afford a tutor.
-
 Thank you for dropping by.
 I hope you find this useful.
 
